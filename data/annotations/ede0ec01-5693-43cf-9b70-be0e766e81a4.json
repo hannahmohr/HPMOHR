@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 13,
-      "end_time": 15,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Whom bomb? We bomb you!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "121cb3bc-7403-45a6-acae-e75d5b8455fb"
-    },
-    {
       "start_time": 17,
       "end_time": 19,
       "annotation": [
