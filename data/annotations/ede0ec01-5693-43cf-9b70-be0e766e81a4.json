@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 4,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Whom bomb? We bomb’d them!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "75bf91f6-8d54-481c-8759-4af0f3d5b785"
-    },
-    {
       "start_time": 9,
       "end_time": 11,
       "annotation": [
