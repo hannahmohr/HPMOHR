@@ -22,27 +22,6 @@
       "uuid": "121cb3bc-7403-45a6-acae-e75d5b8455fb"
     },
     {
-      "start_time": 15,
-      "end_time": 17,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Whom bomb? You bomb you!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "4545b687-99b4-469c-a861-c613ada91335"
-    },
-    {
       "start_time": 17,
       "end_time": 19,
       "annotation": [
