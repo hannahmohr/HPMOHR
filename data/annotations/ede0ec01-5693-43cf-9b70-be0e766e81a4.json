@@ -322,27 +322,6 @@
         }
       ],
       "uuid": "310b6752-78d9-455f-afad-a832602e93f9"
-    },
-    {
-      "start_time": 33,
-      "end_time": 36,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What do we do? You bomb! You bomb you!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "5a93e5fd-03ab-41d7-a85f-011ee0e2ec4e"
     }
   ],
   "set": "Default",
