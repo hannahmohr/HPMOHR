@@ -322,6 +322,224 @@
         }
       ],
       "uuid": "310b6752-78d9-455f-afad-a832602e93f9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb’d them! Whom bomb? We bomb’d them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "1165b1f2-7a41-49a4-8426-bbdeace8e381"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb’d them! Whom bomb? We bomb’d them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "5a204681-5174-4846-873b-3a769a2697a1"
+    },
+    {
+      "start_time": 11,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? We bomb you! Whom bomb? We bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "53fd8cf6-21e8-4e33-b82e-4aa1f9368cf0"
+    },
+    {
+      "start_time": 15,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whom bomb? You bomb you! Whom bomb? You bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "965d385f-ff25-461c-9780-01397a4a8789"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? Who do we bomb? What do we do? Who do we bomb?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c6ca23a7-96ca-41ec-a8aa-c105922f161c"
+    },
+    {
+      "start_time": 23,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? Who do we bomb? What do we do? Who do we bomb?\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "78ce46a3-a9ef-4c5c-9dab-6f4f458711b9"
+    },
+    {
+      "start_time": 27,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? You bomb! You bomb them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "69bc32a5-e0c4-46d0-b50c-13b87d46fd49"
+    },
+    {
+      "start_time": 29,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? You bomb! You bomb them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "0ca88757-8e59-44f8-bfb2-c690016a3b64"
+    },
+    {
+      "start_time": 31,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? We bomb! We bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c05f03fb-b062-4920-af52-d9d02f182ef7"
+    },
+    {
+      "start_time": 33,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we do? You bomb! You bomb you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "86994e31-3ba1-483e-97db-e7998c4d288f"
     }
   ],
   "set": "Default",
