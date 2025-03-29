@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "a62c4863-7826-4350-b15c-bb00db1ce77a": {
+      "label": "Hum Bom",
+      "is_offline": false,
+      "file_url": "https://media.sas.upenn.edu/pennsound/authors/Ginsberg/Ginsberg-Allen_HUM-BOM_Kenning_NY_4-22-94.mp3",
+      "duration": 186
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Ginsberg, Allen. \"Hum Bom.\"",
+  "item_type": "Audio",
+  "label": "Hum Bom",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A reading by Allen Ginsberg of his poem \"Hum Bom.\""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-29T05:30:20.216Z",
+  "created_by": "hannahmohr",
+  "updated_at": "2025-03-29T05:30:20.216Z",
+  "updated_by": "hannahmohr"
+}
