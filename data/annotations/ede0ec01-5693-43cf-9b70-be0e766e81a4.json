@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 25,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What do we do? Who do we bomb?\n"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "514b83e1-7837-4cc0-9da4-66e4f2207349"
-    },
-    {
       "start_time": 27,
       "end_time": 29,
       "annotation": [
