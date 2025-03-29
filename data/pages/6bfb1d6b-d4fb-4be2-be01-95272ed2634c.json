@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-29T04:25:25.937Z",
+  "created_by": "hannahmohr",
+  "title": "Hum Bom",
+  "slug": "hum-bom",
+  "updated_at": "2025-03-29T04:25:25.937Z",
+  "updated_by": "hannahmohr",
+  "parent": "7179a425-1ead-4c8a-bdf3-b0bf24b65a09",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b86fff59-43a3-456d-9092-203204e7789c"
+  }
+}
