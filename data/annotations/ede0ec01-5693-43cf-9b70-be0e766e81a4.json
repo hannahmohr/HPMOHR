@@ -26,27 +26,6 @@
       "uuid": "75bf91f6-8d54-481c-8759-4af0f3d5b785"
     },
     {
-      "start_time": 6,
-      "end_time": 9,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Whom bomb? We bomb’d them!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "29b3c0e5-83b8-4ef1-bda8-ead6b2c0d000"
-    },
-    {
       "start_time": 9,
       "end_time": 11,
       "annotation": [
