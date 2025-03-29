@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 4,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Whom bomb? We bomb’d them!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "21ff0e0b-1188-4ebe-863c-d83e3fe4e890"
-    },
-    {
       "start_time": 4,
       "end_time": 6,
       "annotation": [
