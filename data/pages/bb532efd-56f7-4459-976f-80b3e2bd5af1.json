@@ -76,6 +76,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The major challenge with my annotative approach was splitting up the lines of the transcript. Since many of the poem’s lines are incredibly short, and often spoken quickly by Ginsberg, sectioning the audio by line forced it into a constant, fast tempo, so that if you were to read the annotations while listening, each annotation would last three seconds at most (and some should have lasted less than a second, though AVAnnotate did not allow for annotations shorter than that). However, combining lines—for example, making “Whom bomb? We bomb’d them!/Whom bomb? We bomb’d them!” into a single annotation—allows for far less specificity. Ultimately I decided the former approach was best, as I wanted a comprehensive annotation of alterations in sound shapes, prosody, and sonic profusions. Although Ginsberg’s repetition and varying sound shapes allowed for easier annotations, I also struggled with how to denote changes in intensity, particularly regarding amplitude and tempo. Should they be marked only where they become noticeable (i.e. Ginsberg speaking louder or faster), or wherever a change occurs (such as when he brings his amplitude back down)? Upon testing, I realized that marking any change resulted in a massive amount of tags for amplitude and tempo, which I felt took away from the purpose of the annotations. As such, I used the tags only where there was a discernible increase in amplitude or tempo. Overall, Ginsberg’s high-intensity, “high-octane” (Bernstein 6) reading made for easy identification of sound shapes and sonic profusions, but also created a fast-paced annotative environment in which I had to substitute digestibility for specificity. Ultimately the facets of Ginsberg’s performance, and his audience’s listening experiences, are informed by culture and history, and the aural dimension of the piece is closely bound to the socio-historical conditions in which Ginsberg and his audience lived."
         }
       ]
@@ -117,7 +125,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Bernstein, Charles. “Introduction.” Close Listening: Poetry and the Performed Word, 1998. ProQuest Ebook Central, ebookcentral.proquest.com/lib/ualberta/detail.action?docID=728829."
+          "text": "Bernstein, Charles. “Introduction.” Close Listening: Poetry and the Performed Word, 1998. ProQuest Ebook Central,   ebookcentral.proquest.com/lib/ualberta/detail.action?docID=728829."
         }
       ]
     },
@@ -171,6 +179,6 @@
   "slug": "theatricality-and-aurality-in-hum-bom",
   "created_at": "2025-05-06T22:48:36.286Z",
   "created_by": "hannahmohr",
-  "updated_at": "2025-05-06T22:48:36.286Z",
+  "updated_at": "2025-05-06T22:51:25.089Z",
   "updated_by": "hannahmohr"
 }
